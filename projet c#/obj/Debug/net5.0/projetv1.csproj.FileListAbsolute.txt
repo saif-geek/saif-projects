@@ -1,0 +1,16 @@
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\bin\Debug\net5.0\projetv1.exe
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\bin\Debug\net5.0\projetv1.deps.json
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\bin\Debug\net5.0\projetv1.runtimeconfig.json
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\bin\Debug\net5.0\projetv1.runtimeconfig.dev.json
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\bin\Debug\net5.0\projetv1.dll
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\bin\Debug\net5.0\ref\projetv1.dll
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\bin\Debug\net5.0\projetv1.pdb
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\obj\Debug\net5.0\projetv1.csprojAssemblyReference.cache
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\obj\Debug\net5.0\projetv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\obj\Debug\net5.0\projetv1.AssemblyInfoInputs.cache
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\obj\Debug\net5.0\projetv1.AssemblyInfo.cs
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\obj\Debug\net5.0\projetv1.csproj.CoreCompileInputs.cache
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\obj\Debug\net5.0\projetv1.dll
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\obj\Debug\net5.0\ref\projetv1.dll
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\obj\Debug\net5.0\projetv1.pdb
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet c#\obj\Debug\net5.0\projetv1.genruntimeconfig.cache
