@@ -1,0 +1,16 @@
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\bin\Debug\net5.0-windows\projet winforms.exe
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\bin\Debug\net5.0-windows\projet winforms.deps.json
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\bin\Debug\net5.0-windows\projet winforms.runtimeconfig.json
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\bin\Debug\net5.0-windows\projet winforms.runtimeconfig.dev.json
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\bin\Debug\net5.0-windows\projet winforms.dll
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\bin\Debug\net5.0-windows\ref\projet winforms.dll
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\bin\Debug\net5.0-windows\projet winforms.pdb
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\obj\Debug\net5.0-windows\projet winforms.csprojAssemblyReference.cache
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\obj\Debug\net5.0-windows\projet winforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\obj\Debug\net5.0-windows\projet winforms.AssemblyInfoInputs.cache
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\obj\Debug\net5.0-windows\projet winforms.AssemblyInfo.cs
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\obj\Debug\net5.0-windows\projet winforms.csproj.CoreCompileInputs.cache
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\obj\Debug\net5.0-windows\projet winforms.dll
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\obj\Debug\net5.0-windows\ref\projet winforms.dll
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\obj\Debug\net5.0-windows\projet winforms.pdb
+C:\Users\saifane\Documents\developpement\espace de travail visual studio\projet winforms\obj\Debug\net5.0-windows\projet winforms.genruntimeconfig.cache
